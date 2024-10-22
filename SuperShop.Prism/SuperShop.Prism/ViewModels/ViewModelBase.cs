@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SuperShop.Prism.ViewModels
+namespace SuperShop.Prism.Models
 {
     public class ViewModelBase : BindableBase, IInitialize, INavigationAware, IDestructible
     {

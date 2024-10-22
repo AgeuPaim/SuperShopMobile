@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SuperShop.Prism.ViewModels
+namespace SuperShop.Prism.Models
 {
     public class LoginPageViewModel : ViewModelBase
     {

@@ -5,7 +5,12 @@
              x:Class="SuperShop.Prism.App">
   <Application.Resources>
 
-    <!-- Application resource dictionary -->
-
-  </Application.Resources>
+    <!-- Application resource dictionary-->
+        <ResourceDictionary>
+            <!--Parameters-->
+            <x:String x:Key="UrlAPI">https://costa0910-supershop.azurewebsites.net/api/products</x:String>
+            
+            
+        </ResourceDictionary>
+    </Application.Resources>
 </prism:PrismApplication>

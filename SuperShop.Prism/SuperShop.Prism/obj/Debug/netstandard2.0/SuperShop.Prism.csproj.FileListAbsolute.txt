@@ -4,10 +4,12 @@ C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\bin\D
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\Views\ProductsPage.xaml.g.cs
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.AssemblyInfo.cs
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.sourcelink.json
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.dll
 C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\SuperShop.Prism.pdb
-C:\Users\User\source\repos\SuperShop.Prism\SuperShop.Prism\SuperShop.Prism\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
